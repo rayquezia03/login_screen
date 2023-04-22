@@ -1,14 +1,10 @@
 # login_screen
 
-A new Flutter project.
+A new Flutter project => "Tá na hora!"
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project was made with the intention of practicing my flutter studies. In addition, it is a recreation of the "Tá na hora" app interface, which was idealized and presented in a pitch for the curricular component digital entrepreneurship and special topics.
 
-A few resources to get you started if this is your first Flutter project:
+The application is focused  statuon optimizing the medication process, especially in elderly people.
 
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
