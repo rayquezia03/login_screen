@@ -64,6 +64,7 @@ flutter:
     - assets/logo-th.png
     - assets/remedy-icon.png
     - assets/reset-password-icon.png
+    - assets/avatar-profile.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
