@@ -8,3 +8,14 @@ This project was made with the intention of practicing my flutter studies. In ad
 
 The application is focused  statuon optimizing the medication process, especially in elderly people.
 
+## Screenshots
+
+<img src="assets/print3.png">
+Home Screen
+
+
+<img src="assets/print2.png">
+Reset-pasword Screen
+
+<img src="assets/print1.png">
+Signup Screen
