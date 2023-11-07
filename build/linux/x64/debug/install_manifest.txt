@@ -1,0 +1,16 @@
+/home/rayane/projects/login_screen/build/linux/x64/debug/bundle/login_screen
+/home/rayane/projects/login_screen/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/rayane/projects/login_screen/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/rayane/projects/login_screen/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/rayane/projects/login_screen/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/rayane/projects/login_screen/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/rayane/projects/login_screen/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/rayane/projects/login_screen/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/rayane/projects/login_screen/build/linux/x64/debug/bundle/data/flutter_assets/assets/remedy-icon.png
+/home/rayane/projects/login_screen/build/linux/x64/debug/bundle/data/flutter_assets/assets/avatar-profile.png
+/home/rayane/projects/login_screen/build/linux/x64/debug/bundle/data/flutter_assets/assets/fb-icon.png
+/home/rayane/projects/login_screen/build/linux/x64/debug/bundle/data/flutter_assets/assets/logo-th.png
+/home/rayane/projects/login_screen/build/linux/x64/debug/bundle/data/flutter_assets/assets/reset-password-icon.png
+/home/rayane/projects/login_screen/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/rayane/projects/login_screen/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/rayane/projects/login_screen/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z

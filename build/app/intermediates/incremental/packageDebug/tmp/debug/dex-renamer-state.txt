@@ -1,0 +1,4 @@
+#Mon Nov 06 21:24:43 BRT 2023
+base.0=/home/rayane/projects/login_screen/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
